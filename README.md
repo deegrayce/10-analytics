@@ -1,6 +1,6 @@
-#This repository aims to show my skills in both SQL and Python
+# This repository aims to show my skills in both SQL and Python
 
-# Automating-accounting-procedures
+# 1. Automating-accounting-procedures
 This Python program is designed to assist local retail businesses in streamlining and automating their accounting procedures. The tool focuses on essential accounting tasks, including calculating total sales, worker salaries, profit, tips, and total tips for the day.
 
 ## Features
@@ -38,7 +38,7 @@ Modify the dataset CSV file or use the provided sample dataset.
 Run the main.py file to launch the program.
 Feel free to customize and expand the code based on your specific business requirements. Happy automating!
 
-# Hotel reservation analysis
+# 2. Hotel reservation analysis
 An analysis of a hotel reservation dataset that contains information about reservations of two types of hotels: Resort Hotels (H1) and City Hotels (H2).
 
 ## Overview
